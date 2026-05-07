@@ -1,0 +1,13 @@
+{
+  "schema": "riverbraid.gold.verify.output",
+  "version": "1.0.0",
+  "repo": "Riverbraid-Bio-Gold",
+  "ring": 1,
+  "petal": "Bio-Gold",
+  "invariant": "BIO_STATIONARY",
+  "status": "VERIFIED",
+  "result": true,
+  "expected_result": true,
+  "canonical_signal": "bio-gold:STATIONARY",
+  "canonical_reason": "Stationary fields match declared petal identity"
+}
